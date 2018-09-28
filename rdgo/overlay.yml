@@ -30,4 +30,4 @@ components:
     spec: internal
 
   - src: github:coreos/toolbox
-    spec: rhcos-toolbox.spec
+    spec: internal
